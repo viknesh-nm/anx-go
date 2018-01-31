@@ -1,5 +1,6 @@
 anx-go
 ===========
+[![Build Status](https://travis-ci.org/viknesh-nm/anx-go.svg?branch=master)](https://travis-ci.org/viknesh-nm/anx-go)
 
 anx-go is a package written in go for the REST api of the [anx](https://anxpro.com/) trading platform.
 
@@ -33,7 +34,7 @@ func main() {
 	fmt.Println(ticker.Result)
 }
 ```
-## Notes and Files
+## Documentation
 
 [ANX Documentation V2](http://docs.anxv2.apiary.io/)
 
